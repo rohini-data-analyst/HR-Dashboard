@@ -17,11 +17,6 @@ The dashboard helps HR teams and management make data-driven decisions.
 
 ---
 
-## 📷 Dashboard Preview
-(Add your screenshot here after uploading image to GitHub)
-
----
-
 ## 📊 Key Insights
 
 ### 👥 Employee Overview
