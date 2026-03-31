@@ -206,9 +206,12 @@ Show what the dashboard looks like.
 <img width="929" height="516" alt="image" src="https://github.com/user-attachments/assets/272be8a9-2a1e-4435-8057-98ab68ec088d" />
 
 
+
 # 3. Customer-Segmentation Dashboard
 Customer Segmentation Dashboard (Power BI)
+
 🚀 Project Overview
+
 This project showcases a Customer Segmentation Dashboard built using Power BI to analyze customer behavior, purchasing patterns, and revenue contribution.
 
 By leveraging segmentation techniques (RFM-based insights), this dashboard helps businesses identify high-value customers, potential buyers, and low-engagement segments to drive targeted marketing strategies.
@@ -225,6 +228,7 @@ By leveraging segmentation techniques (RFM-based insights), this dashboard helps
 ---
 
 📌 Dashboard Highlights
+
 🔢 Key KPIs
 👤 Total Customers: 100
 
