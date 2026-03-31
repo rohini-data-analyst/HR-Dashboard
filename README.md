@@ -219,6 +219,7 @@ By leveraging segmentation techniques (RFM-based insights), this dashboard helps
 ---
 
 🎯 Business Objectives
+
 ✨ Understand customer distribution across segments
 ✨ Identify high-value customers for retention strategies
 ✨ Analyze revenue contribution by customer segments
@@ -266,6 +267,7 @@ Behavioral segmentation using Recency, Frequency, Monetary values
 ---
 
 🛠️ Tools & Technologies
+
 📊 Power BI – Dashboard development
 
 🔄 Power Query – Data cleaning & transformation
