@@ -1,4 +1,10 @@
-# HR-Dashboard
+# 📊 Data Analyst Portfolio - Rohini
+ 
+Welcome to my Data Analytics Portfolio showcasing projects built using Power BI.
+ 
+## 🚀 Projects
+
+# 1. HR-Dashboard
 # 📊 HR Analytics Dashboard (Power BI Project)
 
 ## 📌 Overview
@@ -81,7 +87,7 @@ Show what the dashboard looks like.
 If you have any questions or suggestions, feel free to connect!
 
 
-# Sales-Dashboard
+# 2. Sales-Dashboard
  Sales Performance Dashboard (Power BI)
 🚀 Project Overview
 This project presents a dynamic Sales Dashboard built using Power BI to analyze and visualize business performance across multiple dimensions such as sales, profit, quantity, region, and product categories.
@@ -180,7 +186,6 @@ README.md – Project documentation
 
 ---
 
-
 ⭐ Why This Project Stands Out
 Clean and professional dashboard design
 
@@ -197,7 +202,7 @@ Show what the dashboard looks like.
 <img width="929" height="516" alt="image" src="https://github.com/user-attachments/assets/272be8a9-2a1e-4435-8057-98ab68ec088d" />
 
 
-# Customer-Segmentation Dashboard
+# 3. Customer-Segmentation Dashboard
 Customer Segmentation Dashboard (Power BI)
 🚀 Project Overview
 This project showcases a Customer Segmentation Dashboard built using Power BI to analyze customer behavior, purchasing patterns, and revenue contribution.
@@ -239,19 +244,15 @@ Low Value (6%)
 High Value (2%)
 
 📈 Revenue by Segment
-
 Identifies which customer group drives the most revenue
 
 🛍️ Sales by Category
-
 Fashion, Electronics, Grocery performance comparison
 
 🌍 Customer Distribution by City (Map)
-
 Geographic insights for regional targeting
 
 📉 RFM Distribution Analysis
-
 Behavioral segmentation using Recency, Frequency, Monetary values
 
 ---
@@ -290,6 +291,7 @@ This dashboard enables businesses to:
 ---
 
 📂 Project Structure
+
 📁 Customer Segmentation Dashboard.pbix
 
 📁 Dataset.xlsx
