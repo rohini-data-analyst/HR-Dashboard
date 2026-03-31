@@ -221,9 +221,13 @@ By leveraging segmentation techniques (RFM-based insights), this dashboard helps
 🎯 Business Objectives
 
 ✨ Understand customer distribution across segments
+
 ✨ Identify high-value customers for retention strategies
+
 ✨ Analyze revenue contribution by customer segments
+
 ✨ Track average purchase behavior
+
 ✨ Enable data-driven marketing and sales decisions
 
 ---
