@@ -270,9 +270,13 @@ Behavioral segmentation using Recency, Frequency, Monetary values
 
 📈 Key Insights
 ✔ Majority customers fall under Medium Value segment (61%)
+
 ✔ Only 2% customers contribute as High Value → high retention opportunity
+
 ✔ Medium segment drives the highest revenue contribution
+
 ✔ Category analysis shows strong performance in Fashion & Electronics
+
 ✔ RFM analysis helps identify loyal vs inactive customers
 
 ---
